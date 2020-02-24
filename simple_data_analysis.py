@@ -1,3 +1,5 @@
+#main app file
+
 #simple data
 user1 = ("Shommy", "Em", 29, "Junior Developer")
 user2 = ("Mirko", "Mirkovic", 55, "Ministar")
